@@ -27,11 +27,28 @@ import { RouterModule } from '@angular/router';
      <span>1500 </span>avis
     </p>
 </div>
+
+
+
+
+
+
+
   `,
   styles: [`
       .bg-dark{
        background-color: #101010;
       }
+
+
+
+
+
+
+
+
+
+
     `]
 })
 export class HomeComponent implements OnInit {
